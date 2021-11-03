@@ -10,12 +10,11 @@
 
 - 🤝 I’m learning about **Backend, MLOps**. In other words, how to scale Machine Learning projects into production. 
 
-- 💬 Ask me about **Data Structures and Algorithms, Artificial Intelligence, Career Advice**
-
 - 📫 How to reach me **ninhktran@gmail.com**
 
 - ⚡ Fun fact **I can make very good food**
 
-Python, C, C++, Java, OCaml, Javascript, HTML, CSS
+**Python, C, C++, Java**, OCaml, Javascript, HTML, CSS
+OpenCV
 
 Let's connect! <a href="https://www.linkedin.com/in/ninhktran/" target="_blank"> Click here </a> for future collaboration! (Coffee is on me ☕).</br>
