@@ -8,11 +8,11 @@
 
 - 👯 I’m looking for a software engineer fulltime position
 
-- 🤝 I’m learning about **Backend, MLOps**. In other words, how to scale Machine Learning projects into production. 
+- 🤝 I’m learning about **Computer Vision, Machine Learning, Natural Language Processing**. 
 
 - 📫 How to reach me **ninhktran@gmail.com**
 
-- ⚡ Fun fact **I can make very good food**
+- 🥟 Fun fact **I can make very good food**
 
 **Python, C, C++, Java**, OCaml, Javascript, HTML, CSS
 OpenCV
