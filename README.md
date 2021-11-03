@@ -5,17 +5,16 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislevn" alt="chrislevn" /> </p>
 
-- 👯 I’m looking for a software engineer internship
+- 👯 I’m looking for a software engineer fulltime position
 
 - 🤝 I’m learning about **Backend, MLOps**. In other words, how to scale Machine Learning projects into production. 
 
 - 💬 Ask me about **Data Structures and Algorithms, Artificial Intelligence, Career Advice**
 
-- 📫 How to reach me **christopherle0711@gmail.com**
+- 📫 How to reach me **ninhktran@gmail.com**
 
-- ⚡ Fun fact **I can take good photos 📷**
+- ⚡ Fun fact **I can make very good food**
 
 Front-end: React, Redux, Javascript, HTML, CSS, Bootstrap, WebRTC, Heroku  
 Back-end/Database: Python, Flask, NodeJS, RestAPI, Firebase, Google Cloud, MongoDB, SQL. Tensorflow, Open-CV, YOLOv5.
