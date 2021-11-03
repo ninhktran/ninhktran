@@ -15,6 +15,7 @@
 - 🥟 Fun fact **I can make very good food**
 
 **Python, C, C++, Java**, OCaml, Javascript, HTML, CSS
+
 OpenCV
 
 Let's connect! <a href="https://www.linkedin.com/in/ninhktran/" target="_blank"> Click here </a> for future collaboration! (Coffee is on me ☕).</br>
