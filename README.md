@@ -16,11 +16,6 @@
 
 - ⚡ Fun fact **I can make very good food**
 
-Front-end: React, Redux, Javascript, HTML, CSS, Bootstrap, WebRTC, Heroku  
-Back-end/Database: Python, Flask, NodeJS, RestAPI, Firebase, Google Cloud, MongoDB, SQL. Tensorflow, Open-CV, YOLOv5.
-Software Development: React Native, Swift, Git.
-Project Management: Trello, Slack, Figma, Github.
+Python, C, C++, Java, OCaml, Javascript, HTML, CSS
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrislevn&show_icons=true" alt="chrislevn" /></p>
-
-Let's connect! <a href="https://www.linkedin.com/in/chrislevn/" target="_blank"> Click here </a> for future collaboration! (Coffee is on me ☕).</br>
+Let's connect! <a href="https://www.linkedin.com/in/ninhktran/" target="_blank"> Click here </a> for future collaboration! (Coffee is on me ☕).</br>
