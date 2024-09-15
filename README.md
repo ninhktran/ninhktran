@@ -10,10 +10,6 @@
 
 - 🤝 I’m learning about **Computer Vision, Machine Learning, Natural Language Processing**. 
 
-- 📫 How to reach me **ninhktran@gmail.com**
-
-- 🥟 Fun fact **I can make very good food**
-
 **Python, C, C++, Java**, OCaml, Javascript, HTML, CSS
 
 OpenCV
